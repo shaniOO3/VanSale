@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390614087592",
+    "project_id": "vansale-7fd21",
+    "storage_bucket": "vansale-7fd21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390614087592:android:b5e1ee2a5a3bcd01bf0f9d",
+        "android_client_info": {
+          "package_name": "com.shani.vansales_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390614087592-5ubsicfo1utlaht3pl9ab1jlru6i6ieb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shani.vansales_1",
+            "certificate_hash": "50b35f85f1aaf40061cbfb18077791a58eb7426d"
+          }
+        },
+        {
+          "client_id": "390614087592-mgddmakt71hjpakd3kjhq5c19gg9elri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5OLuAYUNKdCKz7842-zGzm-DO6fuBJFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390614087592-mgddmakt71hjpakd3kjhq5c19gg9elri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
